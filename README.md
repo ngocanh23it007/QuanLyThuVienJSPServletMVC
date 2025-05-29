@@ -11,7 +11,7 @@ Trên đây là source của báo cáo cuối kỳ môn Lập Trình Web.
 1. Clone code từ github:
 
 ```shell
-git clone https://github.com/lemanh99/QuanLyThuVienJSPServletMVC.git
+git clone https://github.com/ngocanh23it007/QuanLyThuVienJSPServletMVC.git
 ```
 
 2. Cài đặt Java : [Java JDK 13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
