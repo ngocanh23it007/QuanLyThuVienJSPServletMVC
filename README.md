@@ -78,8 +78,3 @@ $ Cấu trúc thư mục
 └── README.md
 
 ```
-
-<a id="p4"></a> 
-# Tài liệu tham khảo
- 1. Template : [https://adminlte.io//](https://adminlte.io/)
- 2. Báo cáo : [Download](Document/BaoCaoCKLTM.pdf)
