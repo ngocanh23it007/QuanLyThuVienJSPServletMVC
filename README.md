@@ -8,14 +8,6 @@ Trên đây là source của báo cáo cuối kỳ môn Lập Trình Web.
 - Ngày bắt dầu code: 11/11/2020
 - Công bố version 1.0. : 19/11/2020 (Hoàn thành tương đối các chức năng theo sơ đồ use_case)
 - Thông tin báo cáo : [tại đây](Document/BaoCaoCKLTM.pdf)
-## Mục lục:
-1.[Hướng dẫn cài đặt](#p1)
-
-2.[Các chức năng chính của chương trình](#p2)
-
-3.[Cấu trúc thư mục chương trình](#p3)
-
-4.[Tài liệu tham khảo](#p4)
 
 <a id="p1"></a> 
 # Hướng dẫn cài đặt:
