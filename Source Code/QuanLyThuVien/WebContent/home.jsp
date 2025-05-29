@@ -12,8 +12,8 @@
 				<div class=""></div>
 				<div class="col-md-12">
 					<div class="card card-primary" style="margin-top: 12px;">
-						<div class="card-header">
-							<h3 class="card-title">Hướng dẫn sử dụng trang web</h3>
+						<div class="card-header" style="background-color: #28a745; color: white;">
+    						<h3 class="card-title">Hướng dẫn sử dụng trang web</h3>
 						</div>
 						<div style="margin-top: 12px; margin-left: 12px;">
 							<%
@@ -23,7 +23,7 @@
 								&nbsp;- Muốn sử dụng trang web này thì đầu tiên bạn cần <b>
 									<a href="${pageContext.request.contextPath}/Login">đăng
 										nhập.</a>
-								</b>. Tên tài khoản: <b>nobita</b>, Mật khẩu: <b>doraemon</b>.
+								</b>. Tên tài khoản: <b>admin</b>, Mật khẩu: <b>1234567</b>.
 							</p>
 							<%
 								} else {

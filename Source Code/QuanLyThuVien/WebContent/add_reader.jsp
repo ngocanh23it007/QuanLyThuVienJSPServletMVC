@@ -29,7 +29,7 @@
 						action="${pageContext.request.contextPath}/AddReader">
 
 						<div class="card card-primary">
-							<div class="card-header">
+							<div class="card-header" style="background-color: #28a745; color: white;">
 								<h3 class="card-title">Thêm người mượn sách</h3>
 							</div>
 							<!-- /.card-header -->

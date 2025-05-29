@@ -79,7 +79,6 @@ public class Login extends HttpServlet {
 		if (user != null) {
 			request.getSession().setAttribute("User", user);
 			if (remember) {
-
 				GetCookie.storeUserCookie(response, user);
 			}
 			// Ngược lại xóa Cookie

@@ -25,7 +25,7 @@
 				<div class="col-md-3"></div>
 				<div class="col-md-6">
 					<div class="card card-primary">
-						<div class="card-header">
+						<div class="card-header"style="background-color: #28a745; color: white;">
 							<h3 class="card-title">Đăng nhập</h3>
 						</div>
 						<!-- /.card-header -->
@@ -38,13 +38,14 @@
 							</div>
 							<div class="card-body">
 								<div class="form-group">
-									<label for="exampleInputEmail1">Tên đăng nhập</label> <input
-										type="text" class="form-control" name="username"
+									<label for="exampleInputEmail1">Tên đăng nhập</label> 
+									<input
+										type="text" class="form-control" name="username" style="border-radius: 8px;"
 										placeholder="Nhập tên đăng nhập" required="required">
 								</div>
 								<div class="form-group">
 									<label for="exampleInputPassword1">Mật khẩu</label> <input
-										type="password" class="form-control" name="password"
+										type="password" class="form-control" name="password" style="border-radius: 8px;"
 										id="exampleInputPassword1" placeholder="Nhập mật khẩu"
 										required="required">
 								</div>
@@ -56,7 +57,7 @@
 								</div>
 								<div style="margin-bottom: -14px; margin-top: 25px;">
 									<h6>
-										<b>Chú ý:</b> Tên đăng nhập: <b>nobita</b>, mật khẩu: <b>doraemon</b>
+										<b>Chú ý:</b> Tên đăng nhập: <b>admin</b>, mật khẩu: <b>1234567</b>
 									</h6>
 								</div>
 							</div>
