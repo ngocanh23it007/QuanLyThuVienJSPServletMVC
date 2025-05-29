@@ -1,7 +1,6 @@
 
 # Lập trình mạng Quản Lý Thư Viện sử dụng JSP/Servlet theo mô hình MVC!
-Trên đây là source của báo cáo cuối kỳ môn Lập Trình Mạng.
-- Truy cập trang web để xem demo: [http://lemanhltm.j.layershift.co.uk/](http://lemanhltm.j.layershift.co.uk/)
+Trên đây là source của báo cáo cuối kỳ môn Lập Trình Web.
 - Tên đề tài : **Quản Lý Thư Viện.**
 - Ngôn ngữ backend: [Java JSP/Servlet](https://o7planning.org/vi/10979/java-servlet-jsp)
 - Cơ sở dữ liệu: MySQL.
