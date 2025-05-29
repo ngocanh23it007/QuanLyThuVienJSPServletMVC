@@ -4,7 +4,7 @@ Trên đây là source của báo cáo cuối kỳ môn Lập Trình Web.
 - Tên đề tài : **Quản Lý Thư Viện.**
 - Ngôn ngữ backend: [Java JSP/Servlet](https://o7planning.org/vi/10979/java-servlet-jsp)
 - Cơ sở dữ liệu: MySQL.
-- Sever : Apache Tomcat® - Apache Tomcat 8.5.59
+- Sever : Apache Tomcat® - Apache Tomcat 9.0.100
 
 <a id="p1"></a> 
 # Hướng dẫn cài đặt:
@@ -14,10 +14,15 @@ Trên đây là source của báo cáo cuối kỳ môn Lập Trình Web.
 git clone https://github.com/ngocanh23it007/QuanLyThuVienJSPServletMVC.git
 ```
 
-2. Cài đặt Java : [Java JDK 13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+2. Cài đặt Java :
 
 3. Download database: [here](Database/manage_library.sql) hoặc truy cập [thư mục](Database)
 
 4. Cài đặt môi trường lập trình
  - [Eclipse](https://www.eclipse.org/downloads/)
- - [Apache Tomcat® - Apache Tomcat 8.5.59](https://tomcat.apache.org/download-80.cgi)
+ - [Apache Tomcat® - Apache Tomcat 9.0.100]
+
+5. Khởi chạy chương trình:
+	- Run với server tomcat phiên bản 9.0.100
+7. Truy cập trang chủ: Làm theo hướng dẫn sử dụng
+6. Tài khoản đăng nhập trang admin:  Tai khoản đăng nhập: [admin],password: [1234567]
