@@ -5,9 +5,6 @@ Trên đây là source của báo cáo cuối kỳ môn Lập Trình Web.
 - Ngôn ngữ backend: [Java JSP/Servlet](https://o7planning.org/vi/10979/java-servlet-jsp)
 - Cơ sở dữ liệu: MySQL.
 - Sever : Apache Tomcat® - Apache Tomcat 8.5.59
-- Ngày bắt dầu code: 11/11/2020
-- Công bố version 1.0. : 19/11/2020 (Hoàn thành tương đối các chức năng theo sơ đồ use_case)
-- Thông tin báo cáo : [tại đây](Document/BaoCaoCKLTM.pdf)
 
 <a id="p1"></a> 
 # Hướng dẫn cài đặt:
